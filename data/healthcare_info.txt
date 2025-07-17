@@ -1,0 +1,17 @@
+Common Cold:
+Symptoms include runny nose, sore throat, cough, mild fever. Treatment involves rest, hydration, and over-the-counter medications.
+
+Flu (Influenza):
+Symptoms include high fever, body aches, fatigue, cough. Treatment includes rest, fluids, antiviral medications if prescribed early.
+
+Diabetes:
+A chronic condition affecting blood sugar levels. Types include Type 1 and Type 2. Managed through diet, exercise, and medication.
+
+Hypertension:
+High blood pressure condition. Risk factors include age, obesity, high sodium intake. Managed through lifestyle changes and medications.
+
+COVID-19:
+Viral infection affecting respiratory system. Symptoms include fever, cough, loss of taste/smell. Prevention includes vaccination and hygiene measures.
+
+Heart Disease:
+Cardiovascular conditions affecting heart function. Risk factors include smoking, high cholesterol, obesity. Prevention includes healthy diet and exercise.

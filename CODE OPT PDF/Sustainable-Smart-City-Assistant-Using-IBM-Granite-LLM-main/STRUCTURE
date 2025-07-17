@@ -1,0 +1,46 @@
+This code is structured to run in Vscode
+
+📂 Project Structure
+   smart-city-assistant/
+│
+├── app/                         # 🧠 Backend (FastAPI)
+│   ├── api/                     # 🚦 API endpoints
+│   │   ├── chat_router.py
+│   │   ├── eco_tips_router.py
+│   │   ├── report_router.py
+│   │   ├── policy_router.py
+│   │   ├── feedback_router.py
+│   │   ├── kpi_upload_router.py
+│   │   └── anomaly_router.py
+│   ├── core/                    # ⚙️ Configs
+│   │   ├── config.py
+│   │   └── env.py
+│   ├── services/                # 🔁 Business logic
+│   │   ├── granite_llm.py       # Handles Hugging Face API call
+│   │   ├── kpi_forecaster.py    # KPI forecasting logic
+│   │   └── anomaly_checker.py   # Anomaly detection logic
+│   └── main.py                  # 🚀 FastAPI entry point
+│
+├── frontend/                    # 🎨 Frontend (Streamlit)
+│   ├── smart_dashboard.py       # Main UI layout
+│   ├── components/              # 🧩 UI Components
+│   │   ├── chat_assistant.py
+│   │   ├── eco_tips.py
+│   │   ├── feedback_form.py
+│   │   ├── report_generator.py
+│   │   ├── policy_summarizer.py
+│   │   ├── kpi_forecast.py
+│   │   ├── anomaly_checker.py
+│   │   └── summary_card.py
+│   └── readonly/
+│       └── read_only_config.py  # Optional UI lock settings
+│
+├── utils/                       # 🔧 Shared utilities
+│   ├── request_handler.py       # API query logic (e.g., Hugging Face)
+│   └── file_utils.py            # CSV/text file handling
+│
+├── .env                         # 🔐 Stores HUGGINGFACE_API_KEY & MODEL_ID
+├── .gitignore                   # 🛡️ Ignores .env, __pycache__, etc.
+├── README.md                    # 📘 Project description
+├── requirements.txt             # 📦 Dependencies
+└── run_app.sh                   # 🚀 Optional launcher script

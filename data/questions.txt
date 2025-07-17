@@ -1,0 +1,30 @@
+Basic Medical Conditions:
+
+
+"What are the main symptoms of the common cold?"
+"How is Type 2 diabetes different from Type 1 diabetes?"
+"What are the risk factors for hypertension?"
+
+
+Treatment Related:
+
+
+"What treatments are available for the flu?"
+"How can I manage high blood pressure naturally?"
+"What should I do if I have COVID-19 symptoms?"
+
+
+Comparison Questions:
+
+
+"What's the difference between flu and COVID-19 symptoms?"
+"How can I tell if I have a cold or the flu?"
+"Is my chest pain due to heart disease or indigestion?"
+
+
+Prevention Questions:
+
+
+"How can I prevent heart disease?"
+"What lifestyle changes help manage diabetes?"
+"What are the best ways to avoid catching the flu?"
